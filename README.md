@@ -1,5 +1,4 @@
-![Bannière](https://media.discordapp.net/attachments/1154892111183872063/1154892138149064814/04d1e4d4959c4202a900a4b37c1d529c.png?width=670&height=670)
-
+![Bannière Informatique](https://media.discordapp.net/attachments/1154892111183872063/1154892138149064814/04d1e4d4959c4202a900a4b37c1d529c.png?width=670&height=670)
 
 ## Skills Summary
 

@@ -1,5 +1,6 @@
-![Bannière Informatique](https://media.discordapp.net/attachments/1154892111183872063/1154899429623607336/image.png)
-
+<div align="center">
+  ![Bannière Informatique](https://media.discordapp.net/attachments/1154892111183872063/1154899429623607336/image.png)
+</div>
 ## Skills Summary
 
 As an experienced system administrator, I possess a diverse skill set crucial for ensuring the smooth operation of enterprise IT environments. My career revolves around efficiently managing IT assets, and I have expertise in designing, creating, and maintaining robust infrastructure tailored to specific business needs.

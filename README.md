@@ -1,6 +1,7 @@
-<div align="center">
-  ![Bannière Informatique](https://media.discordapp.net/attachments/1154892111183872063/1154899429623607336/image.png)
-</div>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1154892111183872063/1154899429623607336/image.png" alt="Bannière Informatique">
+</p>
+
 
 ## Skills Summary
 

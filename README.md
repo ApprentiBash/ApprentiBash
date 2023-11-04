@@ -33,7 +33,7 @@
 <h3 align="center">📦 Current Projects</h3>
 
 <p align="center">
-    🚧 Working on various network and IT projects involving pfSense, Zabbix, Docker, WatchGuard, VMware ESXi, vCenter, Debian, and Windows. TUTO: infra home project coming soon. 🚧
+    🚧 Working on various network and IT projects involving pfSense, Zabbix, Docker, WatchGuard, VMware ESXi, vCenter, Debian, and Windows. TUTO: INFRA HOME project coming soon. 🚧
 </p>
 
 

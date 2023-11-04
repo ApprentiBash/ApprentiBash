@@ -1,4 +1,4 @@
-<img src="https://github.com/Ralex91/Ralex91/blob/main/banner.jpg?raw=true">
+<img src="https://raw.githubusercontent.com/ApprentiBash/ApprentiBash/main/Welcome.jpg?raw=true">
 <p align="center">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fapprentibash%2Fapprentibash&countColor=%23000000">
 </p>

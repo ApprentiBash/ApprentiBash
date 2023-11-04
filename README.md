@@ -1,27 +1,32 @@
-<div align="center">
-  <img src="https://media.discordapp.net/attachments/1154892111183872063/1154899429623607336/image.png" alt="Bannière Informatique">
+<img src="https://github.com/Ralex91/Ralex91/blob/main/banner.jpg?raw=true">
+<p align="center">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRalex91%2FRalex91&countColor=%2337d67a">
+</p>
+
+<h3 align="center">📚 Languages and Tools</h3>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/pfSense-%23E60025.svg?style=for-the-badge&logo=pfSense&logoColor=white">
+    <img src="https://img.shields.io/badge/Zabbix-%23F50.svg?style=for-the-badge&logo=zabbix&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/WatchGuard-%23ED8B00.svg?style=for-the-badge&logo=watchguard&logoColor=white">
+    <img src="https://img.shields.io/badge/vmware-%23FF6600.svg?style=for-the-badge&logo=vmware&logoColor=white">
+    <img src="https://img.shields.io/badge/Debian-d70a53.svg?&style=for-the-badge&logo=debian&logoColor=white">
+    <img src="https://img.shields.io/badge/Windows-33a8ff.svg?&style=for-the-badge&logo=windows&logoColor=white">
+</p>
+
+<h3 align="center">📦 Current Projects</h3>
+
+<p align="center">
+    🚧 Working on various network and IT projects involving pfSense, Zabbix, Docker, WatchGuard, VMware ESXi, vCenter, Debian, and Windows. 🚧
+</p>
+
+<p align="center">
+    <img src="https://github.com/Ralex91/Ralex91/blob/main/bars.jpg?raw=true">
+</p>
+
+<h3 align="center">📊 Statistics</h3>
+<div float="center">
+    <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralex91&layout=compact&hide=assembly,tex,roff">
+    <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ralex91&show_icons=true">
 </div>
-
-
-
-## Skills Summary
-
-As an experienced system administrator, I possess a diverse skill set crucial for ensuring the smooth operation of enterprise IT environments. My career revolves around efficiently managing IT assets, and I have expertise in designing, creating, and maintaining robust infrastructure tailored to specific business needs.
-
-### Key Skills
-
-1. **Infrastructure Design and Creation**: I excel at designing and building resilient IT infrastructures, encompassing hardware architecture planning, network configuration, OS selection, and virtualization/containerization solutions for optimized resource management.
-
-2. **Enterprise IT Management**: With a strong background in overseeing corporate IT assets, I handle hardware and software setup, maintenance, and regular updates to ensure uninterrupted resource availability, meeting business demands.
-
-3. **Docker and Docker Compose**: Proficient in Docker and Docker Compose, I efficiently create, manage, and deploy containers, crucial for orchestrating applications across development and production environments.
-
-4. **Active Directory (AD)**: My advanced AD management skills cover user and group administration, security policies, and third-party application integration for centralized authentication.
-
-5. **Linux OS Administration**: Competent in administering various Linux distributions, I handle configuration, security, package management, and troubleshooting.
-
-6. **PfSense**: Comfortable with PfSense, an open-source firewall, I configure it to secure corporate networks, including firewall rule management, VPN setup, and traffic monitoring.
-
-7. **Scripting**: Proficiency in scripting languages such as PowerShell and Bash enables me to automate repetitive tasks, streamline management, and enhance operational efficiency.
-
-My commitment to operational efficiency, security, and business continuity makes me an essential asset for any organization. I'm always ready to tackle new challenges, from design to implementation, and adapt to evolving technologies to ensure the company's IT infrastructure remains cutting-edge and fully operational.

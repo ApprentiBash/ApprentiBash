@@ -3,11 +3,14 @@
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fapprentibash%2Fapprentibash&countColor=%23000000">
 </p>
 
-<h3 align="center">👨‍💻 Language</h3>
+<h3 align="center">👨‍💻 Languages</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Shell-5391FE.svg?style=for-the-badge">
     <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Vagrant-1563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white">
+    <img src="https://img.shields.io/badge/Ansible-%230076E8.svg?style=for-the-badge&logo=ansible&logoColor=white">
+    <img src="https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white">
     
 </p>
 <h3 align="center">📚 Tools</h3>
@@ -18,9 +21,7 @@
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/WatchGuard-%23ED8B00.svg?style=for-the-badge&logo=watchguard&logoColor=white">
     <img src="https://img.shields.io/badge/vmware-%23FF6600.svg?style=for-the-badge&logo=vmware&logoColor=white">
-    <img src="https://img.shields.io/badge/Vagrant-1563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white">
-    <img src="https://img.shields.io/badge/Ansible-%230076E8.svg?style=for-the-badge&logo=ansible&logoColor=white">
-    <img src="https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white">
+
 </p>
 <h3 align="center">💿 Operating system</h3>
 
@@ -32,8 +33,14 @@
 
 <h3 align="center">📦 Current Projects</h3>
 
-<p align="center">
-    🚧 Working on various network and IT projects. TUTO: INFRA HOME project coming soon. 🚧
+<hr>
+
+<div>
+<p>
+  <img width="100" align="left" src="https://www.1min30.com/wp-content/uploads/2018/07/Embl%C3%A8me-Cisco.jpg">
+                                                                            
+  <h3>
+      <a href="https://github.com/ApprentiBash/VLAN_Assignement"> VLAN ASSIGNEMENT CONFIGURATION </a>
+  </h3>
+  <h4>Dans ce mini projet, je cherche à simplifier la gestion du réseau en automatisant l'attribution des VLAN</h4>                                                               
 </p>
-
-

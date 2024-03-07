@@ -3,7 +3,7 @@
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fapprentibash%2Fapprentibash&countColor=%23000000">
 </p>
 
-<h3 align="center">👨‍💻 Languages</h3>
+<h3 align="center">👨‍💻 DevOPS</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Shell-5391FE.svg?style=for-the-badge">

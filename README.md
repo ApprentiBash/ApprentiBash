@@ -50,6 +50,6 @@
   <h3>
       <a href="https://github.com/ApprentiBash/PFE-VPNMLPS"> PFE-VPNMPLS </a>
   </h3>
-  <h4>Construction d'une architecture virtualisé avec solution d'interconnexion multisite et de système de sécurité </h4>
+  <h4>Conception d'une architecture réseaux virtualisée intégrant une solution d'interconnexion multisite et de système sécurisé </h4>
   
 </p>

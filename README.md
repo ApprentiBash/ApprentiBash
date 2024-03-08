@@ -45,7 +45,7 @@
   <h4>Dans ce mini projet, je cherche à simplifier la gestion du réseau en automatisant l'attribution des VLAN</h4>
 </p>
 <p>
-  <img width="100" align="left" src="https://st.depositphotos.com/57803962/56729/v/450/depositphotos_567292782-stock-illustration-cloud-computing-simple-design.jpg">
+  <img width="100" align="left" src="https://img.freepik.com/vecteurs-premium/connexion-reseau-globale_41981-1182.jpg">
                                                                             
   <h3>
       <a href="https://github.com/ApprentiBash/PFE-VPNMLPS"> PFE-VPNMPLS </a>

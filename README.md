@@ -42,5 +42,14 @@
   <h3>
       <a href="https://github.com/ApprentiBash/VLAN_Assignement"> VLAN ASSIGNEMENT CONFIGURATION </a>
   </h3>
-  <h4>Dans ce mini projet, je cherche à simplifier la gestion du réseau en automatisant l'attribution des VLAN</h4>                                                               
+  <h4>Dans ce mini projet, je cherche à simplifier la gestion du réseau en automatisant l'attribution des VLAN</h4>
+</p>
+<p>
+  <img width="100" align="left" src="https://st.depositphotos.com/57803962/56729/v/450/depositphotos_567292782-stock-illustration-cloud-computing-simple-design.jpg">
+                                                                            
+  <h3>
+      <a href="https://github.com/ApprentiBash/PFE-VPNMLPS"> PFE-VPNMPLS </a>
+  </h3>
+  <h4>Construction d'une architecture virtualisé avec solution d'interconnexion multisite et de système de sécurité </h4>
+  
 </p>
